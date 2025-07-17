@@ -9,10 +9,10 @@
 
 
 ## Технологии
-- [Python] (https://www.python.org/)
-- [PyTorch] (https://pytorch.org/)
-- [OpenCV] (https://opencv.org/)
-- [Gradio] (https://www.gradio.app/)
+- [Python](https://www.python.org/)
+- [PyTorch](https://pytorch.org/)
+- [OpenCV](https://opencv.org/)
+- [Gradio](https://www.gradio.app/)
 
 
 
