@@ -4,14 +4,15 @@
 Ссылка на Data set: https://www.crcv.ucf.edu/data/UCF101.php
 
 ## "Оглавление"
-- [Технологии](#технологии)
+- [Технологии](#Технологии)
+- [Использование] (#Использование)
 
 
 ## Технологии
-- [Python] #(https://www.python.org/)
-- [PyTorch] #(https://pytorch.org/)
-- [OpenCV] #(https://opencv.org/)
-- [Gradio] #(https://www.gradio.app/)
+- [Python] (https://www.python.org/)
+- [PyTorch] (https://pytorch.org/)
+- [OpenCV] (https://opencv.org/)
+- [Gradio] (https://www.gradio.app/)
 
 
 
